@@ -18,11 +18,17 @@ End the program
 #Program to find the solution for the given linear equations.
 #Developed by:  SANTHOSH V
 #RegisterNumber: 212224230252
+
 import numpy as np
+
 A = np.array([[1, 3], [2, 5]])
+
 b = np.array([5, -3])
+
 solution = np.linalg.solve(A, b)
+
 print(np.array(solution))  
+
 
 
 ## Output:
