@@ -26,7 +26,7 @@ print(np.array(solution))
 
 
 ## Output:
-![Uploading {BC4889CB-E666-4810-8042-84F2B213BAB8}.png…]()
+![{BC4889CB-E666-4810-8042-84F2B213BAB8}](https://github.com/user-attachments/assets/ac362618-0fed-4b72-a7c2-1a430e50b6a0)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
