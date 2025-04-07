@@ -20,18 +20,16 @@ End the program
 #RegisterNumber: 212224230252
 
 import numpy as np
-
 A = np.array([[1, 3], [2, 5]])
-
 b = np.array([5, -3])
-
 solution = np.linalg.solve(A, b)
-
 print(np.array(solution))  
 
 
 
 ## Output:
+
+
 ![{BC4889CB-E666-4810-8042-84F2B213BAB8}](https://github.com/user-attachments/assets/ac362618-0fed-4b72-a7c2-1a430e50b6a0)
 
 ## Result: 
