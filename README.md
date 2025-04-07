@@ -20,9 +20,13 @@ End the program
 #RegisterNumber: 212224230252
 
 import numpy as np
+
 A = np.array([[1, 3], [2, 5]])
+
 b = np.array([5, -3])
+
 solution = np.linalg.solve(A, b)
+
 print(np.array(solution))  
 
 
