@@ -34,7 +34,7 @@ print(np.array(solution))
 ## Output:
 
 
-![{BC4889CB-E666-4810-8042-84F2B213BAB8}](https://github.com/user-attachments/assets/ac362618-0fed-4b72-a7c2-1a430e50b6a0)
+![{C3A565AA-D175-4830-A3B6-40DD340FBC74}](https://github.com/user-attachments/assets/7b6e1eed-70bc-4a24-b724-f9fe0b620410)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
